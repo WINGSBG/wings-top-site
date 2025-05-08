@@ -1,0 +1,50 @@
+[
+  {
+    "clanTaskCurrencyRate": 1.0,
+    "diamondCurrencyRate": 1.0,
+    "diamondExperienceRate": 1.0,
+    "goldCurrencyRate": 1.0,
+    "goldExperienceRate": 1.0,
+    "maxDiamondDonate": 1.0,
+    "maxGoldDonate": 1.0,
+    "name": "",
+    "personalTaskCurrencyRate": 1.0,
+    "personalTaskExperienceRate": 1.0
+  },
+  {
+    "clanTaskCurrencyRate": 1.2,
+    "diamondCurrencyRate": 1.0,
+    "diamondExperienceRate": 1.2,
+    "goldCurrencyRate": 1.0,
+    "goldExperienceRate": 1.2,
+    "maxDiamondDonate": 1.5,
+    "maxGoldDonate": 1.5,
+    "name": "VIP",
+    "personalTaskCurrencyRate": 1.2,
+    "personalTaskExperienceRate": 1.2
+  },
+  {
+    "clanTaskCurrencyRate": 1.5,
+    "diamondCurrencyRate": 1.0,
+    "diamondExperienceRate": 1.5,
+    "goldCurrencyRate": 1.0,
+    "goldExperienceRate": 1.5,
+    "maxDiamondDonate": 2.0,
+    "maxGoldDonate": 2.0,
+    "name": "VIP+",
+    "personalTaskCurrencyRate": 1.5,
+    "personalTaskExperienceRate": 1.5
+  },
+  {
+    "clanTaskCurrencyRate": 2.0,
+    "diamondCurrencyRate": 1.0,
+    "diamondExperienceRate": 2.0,
+    "goldCurrencyRate": 1.0,
+    "goldExperienceRate": 2.0,
+    "maxDiamondDonate": 3.0,
+    "maxGoldDonate": 3.0,
+    "name": "MVP",
+    "personalTaskCurrencyRate": 2.0,
+    "personalTaskExperienceRate": 2.0
+  }
+]

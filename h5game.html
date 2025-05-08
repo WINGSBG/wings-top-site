@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <title>H5 游戏页面</title>
+    <style>
+        /* 通用样式 */
+        .content {
+            min-width: 200px;
+            background-color: rgba(0, 0, 0, 0.8);
+            color: white;
+            margin-top: 300px;
+            margin-left: 20px;
+            text-align: center;
+            border-radius: 5px;
+            padding: 10px;
+            position: fixed;
+            font-size: 14px;
+        }
+    </style>
+    <script src="./blockman_go_sdk.js"></script>
+    <script>
+        // 调用客户端BMGLogin方法获取授权信息
+        function callBMGLogin(partnerId) {
+            BlockmanGoSDK.BMGLogin(partnerId);
+        }
+
+        // 定义回调onBMGLoginResult方法，接受客户端的回调
+        function onBMGLoginResult(openId, gameToken, userJson) {
+            const log_content = document.getElementById('log_content');
+            log_content.textContent = 'OpenId: ' + openId + ' GameToken: ' + gameToken + ' UserInfo:' + userJson;
+        }
+
+        // 调用客户端Buy方法购买商品
+        function callBuy(goodsId, goodsName, goodsPrice, amount, openId, partnerId, extrasParams) {
+            BlockmanGoSDK.Buy(goodsId, goodsName, goodsPrice, amount, openId, partnerId, extrasParams);
+        }
+
+        // 定义回调OnPayResult方法，接受客户端的回调
+        function OnPayResult(orderId, status, msg) {
+            const log_content = document.getElementById('log_content');
+            log_content.textContent = 'OrderId: ' + orderId + ' Status: ' + status + ' Msg: ' + msg;
+        }
+
+        // 调用客户端ShowAd方法展示广告
+        function callShowAd() {
+            BlockmanGoSDK.ShowAd();
+        }
+
+        // 定义回调OnAdResult方法，接受客户端的回调
+        function OnAdResult(advertId) {
+            const log_content = document.getElementById('log_content');
+            log_content.textContent = 'Ad: ' + advertId;
+        }
+
+        // 调用客户端GetLanguage方法获取客户端语言
+        function callGetLanguage() {
+            BlockmanGoSDK.GetLanguage();
+        }
+
+        // 定义回调OnLanguageResult方法，接受客户端的回调
+        function OnLanguageResult(language) {
+            const log_content = document.getElementById('log_content');
+            log_content.textContent = 'Language: ' + language;
+        }
+
+        // 调用客户端GetUserCustomProps方法获取自定义数据
+        function callGetUserCustomProps() {
+            BlockmanGoSDK.GetUserCustomProps('v1');
+        }
+
+        // 定义回调OnGetUserCustomPropsResult方法，接受客户端的回调
+        function OnGetUserCustomPropsResult(data) {
+            const log_content = document.getElementById('log_content');
+            log_content.textContent = 'Data: ' + data;
+        }
+
+        // 调用客户端PutUserCustomProps方法上传自定义数据
+        function callPutUserCustomProps(data) {
+            BlockmanGoSDK.PutUserCustomProps('v1', data);
+        }
+
+        // 定义回调OnPutUserCustomPropsResult方法，接受客户端的回调
+        function OnPutUserCustomPropsResult(result) {
+            const log_content = document.getElementById('log_content');
+            log_content.textContent = 'Result: ' + result;
+        }
+
+        // 调用客户端ConsumeItemUsing方法获取自定义数据
+        function callConsumeItemUsing(orderId, productionId, quantity) {
+            BlockmanGoSDK.ConsumeItemUsing('v1', orderId, productionId, quantity);
+        }
+
+        // 定义回调OnConsumeItemUsingResult方法，接受客户端的回调
+        function OnConsumeItemUsingResult(orderId, productionId, quantity, result) {
+            const log_content = document.getElementById('log_content');
+            log_content.textContent = 'Result: ' + result;
+        }
+
+        // 调用客户端PurchaseItemUsing方法获取自定义数据
+        function callPurchaseItemUsing(orderId, productionId, quantity) {
+            BlockmanGoSDK.PurchaseItemUsing('v1', orderId, productionId, quantity);
+        }
+
+        // 定义回调OnPurchaseItemUsingResult方法，接受客户端的回调
+        function OnPurchaseItemUsingResult(orderId, productionId, quantity, result) {
+            const log_content = document.getElementById('log_content');
+            log_content.textContent = 'Result: ' + result;
+        }
+
+        // 调用退出游戏接口
+        function callExitGame() {
+            BlockmanGoSDK.ExitGame();
+        }
+    </script>
+</head>
+<body>
+<h1>H5 游戏页面</h1>
+<button onclick="callBMGLogin('partnerId')">获取游戏授权</button>
+<button onclick="callBuy('p111111', '道具1', 100, 1, 'openid11111', 'pid121212121', { key: 'value' })">
+    打开充值页面
+</button>
+<button onclick="callShowAd()">打开广告</button>
+<button onclick="callExitGame()">关闭游戏</button>
+<button onclick="callGetLanguage()">获取语言</button>
+<br/><br/><br/>
+<button onclick="callGetUserCustomProps()">获取用户的自定义属性</button>
+<button onclick="callPutUserCustomProps('11111111')">更新用户的自定义属性</button>
+<br/><br/><br/>
+<button onclick="callConsumeItemUsing('order1', 'prod-001', 1)">用户消耗道具接口</button>
+<button onclick="callPurchaseItemUsing('order1', 'prod-001', 1)">用户购买道具接口</button>
+<div id="log_content" class="content">日志</div>
+</body>
+</html>

@@ -1,0 +1,824 @@
+{
+  "g1008": {
+    "de": "Bed Wars",
+    "ru": "Bed Wars",
+    "pt": "Bed Wars",
+    "ko": "Bed Wars",
+    "in": "Bed Wars",
+    "lt": "Bed Wars",
+    "en": "Bed Wars",
+    "it": "Bed Wars",
+    "fr": "Bed Wars",
+    "zh": "起床战争",
+    "es": "Bed Wars",
+    "vi": "Bed Wars",
+    "uk": "Bed Wars",
+    "tl": "Bed Wars",
+    "pl": "Bed Wars"
+  },
+  "g1048": {
+    "ru": "Sky Block",
+    "vi": "Sky Block",
+    "ko": "Sky Block",
+    "pt": "Sky Block",
+    "en": "Sky Block",
+    "zh": "空岛生存"
+  },
+  "g1018": {
+    "de": "Egg War",
+    "ru": "Egg War",
+    "ko": "Egg War",
+    "pt": "Egg War",
+    "in": "Perang Telur",
+    "en": "Egg War",
+    "zh": "龙蛋战争",
+    "es": "La Guerra De Los Huevos",
+    "vi": "Egg War",
+    "uk": "Egg War",
+    "ja": "エッグウォー",
+    "pl": "Egg War",
+    "tr": "Egg War"
+  },
+  "g1025": {
+    "de": "Hero Tycoon 2",
+    "ru": "Hero Tycoon 2",
+    "pt": "Hero Tycoon 2",
+    "ko": "Hero Tycoon 2",
+    "in": "Raja pahlawan 2",
+    "en": "Hero Tycoon 2",
+    "fr": "Héros Tycoon 2",
+    "zh": "英雄大亨 2",
+    "vi": "Hero Tycoon 2",
+    "uk": "Hero Tycoon 2",
+    "ja": "Hero Tycoon 2",
+    "pl": "Hero Tycoon 2",
+    "tr": "Hero Tycoon 2"
+  },
+  "g2020": {
+    "de": "Mit mir wachsen",
+    "ru": "Pасти со мной",
+    "pt": "Cresça comigo",
+    "ko": "나와 함께 자라",
+    "in": "Tumbuh bersamaku",
+    "en": "Grow with Me",
+    "it": "Crescere con me",
+    "fr": "Grandir avec moi",
+    "zh": "实习家长",
+    "es": "Crece Conmigo",
+    "vi": "Lớn lên cùng tôi",
+    "th": "เติบโตไปพร้อมกับฉัน",
+    "ja": "私と一緒に成長する",
+    "pl": "Rosnąć ze mną",
+    "tr": "Benimle büyümek"
+  },
+  "g1054": {
+    "vi": "Lucky Block: Skywars",
+    "pt": "Lucky Block: Skywars",
+    "ko": "Lucky Block: Skywars",
+    "en": "Lucky Block: Skywars",
+    "zh": "幸运方块: 空岛战争"
+  },
+  "g1014": {
+    "hi": "जेल ब्रेक",
+    "de": "Jail Break",
+    "ru": "Побег из тюрьмы",
+    "pt": "Jail Break",
+    "ko": "Jail Break",
+    "in": "Jail Break",
+    "lt": "Jail Break",
+    "en": "Jail Break",
+    "fr": "Jail Break",
+    "zh": "警匪大战",
+    "es": "Jail Break",
+    "vi": "Jail Break",
+    "ja": "Jail Break",
+    "tl": "Jail Break"
+  },
+  "g2033": {
+    "en": "Anime Fighting Simulator",
+    "zh": "动漫格斗模拟器"
+  },
+  "g2034": {
+    "de": "INSELN",
+    "ru": "ОСТРОВА",
+    "pt": "ILHAS",
+    "ko": "섬 생존",
+    "in": "PULAU",
+    "en": "BUILD AT SEA",
+    "it": "ISOLE",
+    "fr": "ÎLES",
+    "zh": "海岛生存",
+    "es": "ISLAS",
+    "vi": "ĐẢO",
+    "th": "หมู่เกาะ",
+    "ja": "島の生存",
+    "pl": "WYSPY",
+    "tr": "ADALAR"
+  },
+  "g1047": {
+    "ru": "Realm City",
+    "vi": "Realm City",
+    "ko": "Realm City",
+    "pt": "Realm City",
+    "en": "Realm City",
+    "zh": "领域之城"
+  },
+  "g1042": {
+    "de": "Aufbau und Schießen",
+    "ru": "Build and Shoot",
+    "vi": "Build and Shoot",
+    "ko": "Build and Shoot",
+    "pt": "Build and Shoot",
+    "en": "Build and Shoot",
+    "zh": "建造与射击"
+  },
+  "g1055": {
+    "vi": "WWE School Simulator",
+    "pt": "WWE School Simulator",
+    "ko": "WWE School Simulator",
+    "en": "WWE School Simulator",
+    "zh": "WWE学校模拟器"
+  },
+  "g1023": {
+    "de": "Build Battle",
+    "ru": "Build Battle",
+    "ko": "Build Battle",
+    "in": "Perang bangunan",
+    "en": "Build Battle",
+    "fr": "Bataille de la construction",
+    "zh": "建造战争",
+    "vi": "Build Battle",
+    "nb": "Build Battle",
+    "uk": "Build Battle",
+    "ja": "Build Battle",
+    "pl": "Build Battle",
+    "tr": "Build Battle"
+  },
+  "g1037": {
+    "de": "Hide And Seek 2",
+    "ru": "Hide And Seek 2",
+    "ko": "Hide And Seek 2",
+    "pt": "Hide And Seek 2",
+    "in": "Hide And Seek 2",
+    "en": "Hide And Seek 2",
+    "it": "Hide And Seek 2",
+    "fr": "Hide And Seek 2",
+    "zh": "躲猫猫2",
+    "es": "Hide And Seek 2",
+    "vi": "Hide And Seek 2",
+    "th": "Hide And Seek 2",
+    "ja": "Hide And Seek 2",
+    "tr": "Hide And Seek 2"
+  },
+  "g2035": {
+    "en": "Vice City",
+    "zh": "罪恶都市"
+  },
+  "g1002": {
+    "hi": "स्काई वौर",
+    "de": "Sky Wars",
+    "ru": "Sky Wars",
+    "pt": "Sky Wars",
+    "ko": "Sky Wars",
+    "in": "Sky wars",
+    "lt": "Sky Wars",
+    "en": "Sky Wars",
+    "it": "Sky Wars",
+    "fr": "Sky Wars",
+    "zh": "空岛战争",
+    "es": "Sky Wars",
+    "vi": "Sky Wars",
+    "uk": "Sky wars",
+    "tl": "Sky Wars",
+    "pl": "Sky Wars"
+  },
+  "g1026": {
+    "de": "TNT Tag",
+    "ru": "TNT Tag",
+    "pt": "TNT Tag",
+    "ko": "TNT Tag",
+    "in": "TNT Tag",
+    "en": "TNT Tag",
+    "fr": "TNT Tag",
+    "zh": "丢锅大战",
+    "vi": "TNT Tag",
+    "uk": "TNT Tag",
+    "ja": "TNT Tag",
+    "pl": "TNT Tag",
+    "tr": "TNT Tag"
+  },
+  "g1009": {
+    "hi": "मडर मिस्टरी",
+    "de": "Murder Mystery",
+    "ru": "Murder Mystery",
+    "pt": "Murder Mystery",
+    "ko": "Murder Mystery",
+    "in": "Murder Mystery",
+    "lt": "Murder Mystery",
+    "en": "Murder Mystery",
+    "it": "Murder Mistery",
+    "fr": "Murder Mystery",
+    "zh": "神秘杀手",
+    "es": "Murder Mystery",
+    "vi": "Murder Mystery",
+    "uk": "Murder Mystery",
+    "tl": "Murder Mystery",
+    "pl": "Murder Mystery"
+  },
+  "g1030": {
+    "de": "Schneemann-Verteidiger",
+    "ru": "Snowman Defender",
+    "vi": "Snowman Defender",
+    "pt": "Snowman Defender",
+    "ko": "Snowman Defender",
+    "uk": "Snowman Defender",
+    "en": "Snowman Defender",
+    "pl": "Snowman Defender",
+    "zh": "保卫雪人",
+    "tr": "Le défenseur de bonhomme de neige"
+  },
+  "g1027": {
+    "de": "Sky Royale",
+    "ru": "Sky Royale",
+    "vi": "Sky Royale",
+    "pt": "Sky Royale",
+    "ko": "Sky Royale",
+    "uk": "Sky Royale",
+    "en": "Sky Royale",
+    "pl": "Sky Royale",
+    "fr": "Sky Royale",
+    "zh": "空岛乱斗"
+  },
+  "g1020": {
+    "de": "Ministadt",
+    "ru": "Мини-город",
+    "ko": "Mini Town",
+    "pt": "Ministadt",
+    "in": "Kota Mini",
+    "en": "Mini Town",
+    "zh": "迷你小镇",
+    "es": "4，Mini Ciudad",
+    "vi": "Mini Town",
+    "uk": "Mini Town",
+    "ja": "ミニタウン",
+    "pl": "Mini Town",
+    "tr": "Mini Town"
+  },
+  "g1015": {
+    "hi": "ट्रैज़र हंटर",
+    "de": "Treasure Hunter",
+    "ru": "Treasure Hunter",
+    "pt": "Treasure Hunter",
+    "ko": "Treasure Hunter",
+    "in": "Treasure Hunter",
+    "lt": "Treasure Hunter",
+    "en": "Treasure Hunter",
+    "fr": "Chasseur de trésors",
+    "zh": "夺宝奇兵",
+    "es": "Treasure Hunter",
+    "vi": "Treasure Hunter",
+    "uk": "Treasure Hunter",
+    "ja": "Treasure Hunter",
+    "tl": "Treasure Hunter"
+  },
+  "g2030": {
+    "ru": "Ниндзя: Скайрим",
+    "vi": "Ninja: Skyrim",
+    "pt": "Ninja: Skyrim",
+    "en": "Ninja: Skyrim",
+    "zh": "忍者传说"
+  },
+  "g1019": {
+    "de": "Aliens Attack",
+    "ru": "Атака Пришельцев",
+    "ko": "Aliens Attack",
+    "pt": "Aliens Attack",
+    "in": "Serangan Alien",
+    "en": "Aliens Attack",
+    "zh": "异星入侵",
+    "es": "Ataque De Los Extraterrestres",
+    "vi": "Aliens Attack",
+    "uk": "Aliens Attack",
+    "ja": "Aliens Attack",
+    "pl": "Aliens Attack",
+    "tr": "Aliens Attack"
+  },
+  "g1024": {
+    "de": "Gem Knight",
+    "ru": "Gem Knight",
+    "ko": "Gem Knight",
+    "pt": "Gem Knight",
+    "in": "Ksatria permata",
+    "en": "Gem Knight",
+    "fr": "Chevalier de gemme",
+    "zh": "宝石骑士",
+    "vi": "Gem Knight",
+    "uk": "Gem Knight",
+    "ja": "Gem Knight",
+    "pl": "Gem Knight",
+    "tr": "Gem Knight"
+  },
+  "g2013": {
+    "ru": "Destiny Castle 2",
+    "vi": "Destiny Castle 2",
+    "pt": "Destiny Castle 2",
+    "ko": "Destiny Castle 2",
+    "en": "Destiny Castle 2",
+    "zh": "命运城堡2"
+  },
+  "g1041": {
+    "de": "Vogelsimulator",
+    "ru": "Bird Simulator",
+    "vi": "Bird Simulator",
+    "ko": "Bird Simulator",
+    "pt": "Bird Simulator",
+    "en": "Bird Simulator",
+    "zh": "小鸟模拟器"
+  },
+  "g1016": {
+    "hi": "प.ब.जी.युद्ध क्षेत्र",
+    "de": "PUBG: Battle Field",
+    "ru": "PUBG Battle Field",
+    "pt": "PUBG: Battle Field",
+    "ko": "PUBG: Battle Field",
+    "in": "PUBG:Battle Field",
+    "lt": "PUBG: Battle Field",
+    "en": "PUBG:Battle Field",
+    "fr": "PUBG: Battle Field",
+    "zh": "绝地战场",
+    "es": "PUBG: Battle Field",
+    "vi": "PUBG: Battle Field",
+    "uk": "PUBG: Battle Field",
+    "ja": "PUBG: Battle Field",
+    "tl": "PUBG:Battle Field"
+  },
+  "g1051": {
+    "ru": "The Walking Dead",
+    "vi": "The Walking Dead",
+    "ko": "The Walking Dead",
+    "pt": "The Walking Dead",
+    "en": "The Walking Dead",
+    "zh": "行尸走肉"
+  },
+  "g1032": {
+    "de": "Blockman Strike",
+    "ru": "Blockman Strike",
+    "vi": "Blockman Strike",
+    "pt": "Blockman Strike",
+    "ko": "Blockman Strike",
+    "en": "Blockman Strike",
+    "fr": "Blockman Strike",
+    "pl": "Blockman Strike",
+    "zh": "武装冲突"
+  },
+  "g1057": {
+    "de": "TD: Angry Pets",
+    "ru": "TD: Angry Pets",
+    "ko": "TD: Angry Pets",
+    "pt": "TD: Angry Pets",
+    "in": "TD: Angry Pets",
+    "en": "TD: Angry Pets",
+    "it": "TD: Angry Pets",
+    "fr": "TD: Angry Pets",
+    "zh": "塔防：愤怒的宠物",
+    "es": "TD: Angry Pets",
+    "vi": "TD: Angry Pets",
+    "th": "TD: Angry Pets",
+    "ja": "TD: Angry Pets",
+    "pl": "TD: Angry Pets",
+    "tr": "TD: Angry Pets"
+  },
+  "g1036": {
+    "de": "Ender vs Slender",
+    "ru": "Ender vs Slender",
+    "vi": "Ender vs Slender",
+    "ko": "Ender vs Slender",
+    "pt": "Ender vs Slender",
+    "en": "Ender vs Slender",
+    "zh": "末影VS鬼影"
+  },
+  "g1001": {
+    "hi": "सरवाइवल   खेल",
+    "de": "Survival Games",
+    "ru": "Голодные Игры",
+    "pt": "Survival Games",
+    "ko": "Survival Games",
+    "in": "Survival Games",
+    "lt": "Survival Games",
+    "en": "Survival Games",
+    "it": "Survival Games",
+    "fr": "Survival Games",
+    "zh": "饥饿游戏",
+    "es": "Juego De Supervivencia",
+    "vi": "Survival Games",
+    "uk": "Голодні Ігри",
+    "tl": "Survival Games",
+    "pl": "Survival Games"
+  },
+  "g1028": {
+    "de": "Ultimate Fighting",
+    "ru": "Ultimate Fighting",
+    "vi": "Ultimate Fighting",
+    "pt": "Ultimate Fighting",
+    "ko": "Ultimate Fighting",
+    "uk": "Ultimate Fighting",
+    "en": "Ultimate Fighting",
+    "pl": "Ultimate Fighting",
+    "fr": "Ultimate Fighting",
+    "zh": "武道大会"
+  },
+  "g1013": {
+    "hi": "ज़ोंबी इनफैक्टिंग",
+    "de": "Zombie Infecting",
+    "ru": "Zombie Infecting",
+    "pt": "Infecção por zumbis",
+    "ko": "Infeccion Zombie",
+    "in": "Zombie Infecting",
+    "lt": "Zombie Infecting",
+    "en": "Zombie Infecting",
+    "fr": "Zombie Infecting",
+    "zh": "生化危机",
+    "es": "Infeccion Zombie",
+    "vi": "Zombie Infecting",
+    "uk": "Zombie Infecting",
+    "ja": "Zombie Infecting",
+    "tl": "Zombie Infecting"
+  },
+  "g1053": {
+    "ru": "Battle Royale",
+    "vi": "Battle Royale",
+    "ko": "Battle Royale",
+    "pt": "Battle Royale",
+    "en": "Battle Royale",
+    "zh": "绝地吃鸡"
+  },
+  "g1029": {
+    "de": "Mega Wände",
+    "ru": "Mega Walls",
+    "vi": "Mega Walls",
+    "pt": "Mega Wände",
+    "ko": "Mega Walls",
+    "uk": "Mega Walls",
+    "en": "Mega Walls",
+    "pl": "Mega Walls",
+    "fr": "Méga Murs",
+    "zh": "超级战墙"
+  },
+  "g1017": {
+    "de": "Hide and Seek",
+    "ru": "Прятки",
+    "ko": "Hide and Seek",
+    "pt": "Hide and Seek",
+    "in": "Petak Umpet",
+    "en": "Hide and Seek",
+    "zh": "躲猫猫",
+    "es": "Ocultar y Buscar",
+    "vi": "Hide and Seek",
+    "uk": "хованки",
+    "ja": "かくれんぼ",
+    "pl": "Hide and Seek",
+    "tr": "Hide and Seek"
+  },
+  "g2021": {
+    "de": "Block Dungeon",
+    "ru": "Block Dungeon",
+    "pt": "Block Dungeon",
+    "ko": "Block Dungeon",
+    "in": "Block Dungeon",
+    "en": "Block Dungeon",
+    "it": "Block Dungeon",
+    "fr": "Block Dungeon",
+    "zh": "方块地下城",
+    "es": "Block Dungeon",
+    "vi": "Block Dungeon",
+    "th": "Block Dungeon",
+    "ja": "Block Dungeon",
+    "pl": "Block Dungeon",
+    "tr": "Block Dungeon"
+  },
+  "g1021": {
+    "de": "Regenbogen-Parkour",
+    "ru": "Радужный паркур",
+    "ko": "Rainbow Parkour",
+    "pt": "Regenbogen-Parkour",
+    "in": "Parkur Pelangi",
+    "en": "Rainbow Parkour",
+    "zh": "彩虹跑酷",
+    "es": "Parkour Arcoiris",
+    "vi": "Rainbow Parkour",
+    "uk": "Rainbow Parkour",
+    "ja": "Rainbow Parkour",
+    "pl": "Rainbow Parkour",
+    "tr": "Rainbow Parkour"
+  },
+  "g1022": {
+    "de": "Capture Flag",
+    "ru": "Capture Flag",
+    "ko": "Capture Flag",
+    "pt": "Capture Flag",
+    "in": "1.Menangkap bendera",
+    "en": "Capture Flag",
+    "fr": "Capturer le drapeau",
+    "zh": "职业夺旗",
+    "vi": "Capture Flag",
+    "uk": "Capture Flag",
+    "ja": "Capture Flag",
+    "pl": "Capture Flag",
+    "tr": "Capture Flag"
+  },
+  "g1031": {
+    "de": "Ranchers",
+    "ru": "Ranchers",
+    "vi": "Ranchers",
+    "pt": "Ranchers",
+    "ko": "Ranchers",
+    "en": "Ranchers",
+    "zh": "大农场主"
+  },
+  "g1011": {
+    "hi": "स्नोबॉल बैटल",
+    "de": "Snowball Battle",
+    "ru": "Snowball Battle",
+    "pt": "Snowball Battle",
+    "ko": "snow battle",
+    "in": "Snowball Battle",
+    "lt": "Snowball Battle",
+    "en": "Snowball Battle",
+    "fr": "Snowball Battle",
+    "zh": "雪球大作战",
+    "es": "Batalla de bolas de nieve",
+    "vi": "Snowball Battle",
+    "uk": "Snowball Battle",
+    "ja": "Snowball Battle",
+    "tl": "Snowball Battle"
+  },
+  "g1007": {
+    "hi": "बो स्पलीफ",
+    "de": "Bow Spleef",
+    "ru": "Bow Spleef",
+    "pt": "Bow Spleef",
+    "ko": "Bow Spleef",
+    "in": "Bow Spleef",
+    "lt": "Bow Spleef",
+    "en": "Bow Spleef",
+    "it": "Bow Spleef",
+    "fr": "Bow  Spleef",
+    "zh": "弓箭版掘一死战",
+    "es": "Bow Spleef",
+    "vi": "Bow Spleef",
+    "uk": "Bow Spleef",
+    "tl": "Bow Spleef",
+    "pl": "Bow Spleef"
+  },
+  "g2004": {
+    "de": "Sky Divers",
+    "ru": "Sky Divers",
+    "vi": "Sky Divers",
+    "pt": "Sky Divers",
+    "ko": "Sky Divers",
+    "en": "Sky Divers",
+    "zh": "Sky Divers"
+  },
+  "g1010": {
+    "hi": "टीएनटी रन",
+    "de": "TNT Run",
+    "ru": "TNT Run",
+    "pt": "TNT Run",
+    "ko": "TNT Run",
+    "in": "TNT Run",
+    "lt": "TNT Run",
+    "en": "TNT Run",
+    "fr": "TNT Run",
+    "zh": "TNT跑酷",
+    "es": "TNT Run",
+    "vi": "TNT Run",
+    "ja": "TNT Run",
+    "tl": "TNT Run"
+  },
+  "g20016448": {
+    "en": "Blocky Gladiators ",
+    "zh": "方块角斗士"
+  },
+  "g2007": {
+    "ru": "Hell Invasion",
+    "vi": "Hell Invasion",
+    "pt": "Hell Invasion",
+    "ko": "Hell Invasion",
+    "en": "Hell Invasion",
+    "zh": "地狱入侵"
+  },
+  "g2001": {
+    "de": "Voyage Ära",
+    "ru": "Voyage Era",
+    "vi": "Voyage Era",
+    "pt": "Voyage Era",
+    "ko": "Voyage Era",
+    "en": "Voyage Era",
+    "zh": "大航海时代"
+  },
+  "g2017": {
+    "ru": "Glory of Hero",
+    "vi": "Glory of Hero",
+    "pt": "Glory of Hero",
+    "ko": "Glory of Hero",
+    "en": "Glory of Hero",
+    "zh": "英雄荣耀"
+  },
+  "g2019": {
+    "vi": "Super Man Tales",
+    "pt": "Super Man Tales",
+    "ko": "Super Man Tales",
+    "en": "Super Man Tales",
+    "zh": "马奥逐星大冒险"
+  },
+  "g2000931": {
+    "en": "Super Hero Conflict",
+    "zh": "超级英雄大战"
+  },
+  "g20017812": {
+    "en": "CASTLE RUSH",
+    "zh": "争夺城堡"
+  },
+  "g2003": {
+    "de": "Rennparkour",
+    "ru": "Racing Parkour",
+    "vi": "Racing Parkour",
+    "pt": "Racing Parkour",
+    "ko": "Racing Parkour",
+    "en": "Racing Parkour",
+    "zh": "竞速跑酷"
+  },
+  "g2014": {
+    "ru": "Ultimate Rush",
+    "vi": "Ultimate Rush",
+    "pt": "Ultimate Rush",
+    "ko": "Ultimate Rush",
+    "en": "Ultimate Rush",
+    "zh": "极限跑酷"
+  },
+  "g2008": {
+    "ru": "Wool War",
+    "vi": "Wool War",
+    "pt": "Wool War",
+    "ko": "Wool War",
+    "en": "Wool War",
+    "zh": "羊毛战争"
+  },
+  "g20001153": {
+    "en": "Clan Wars",
+    "zh": "团队战争"
+  },
+  "g20001777": {
+    "en": "Maze PVP",
+    "zh": "迷宫战争"
+  },
+  "g2018": {
+    "ru": "Outlast the Dawn",
+    "vi": "Outlast the Dawn",
+    "pt": "Outlast the Dawn",
+    "ko": "Outlast the Dawn",
+    "en": "Outlast the Dawn",
+    "zh": "黎明逃生"
+  },
+  "g2006": {
+    "ru": "Rush Ladder",
+    "vi": "Rush Ladder",
+    "pt": "Rush Ladder",
+    "ko": "Rush Ladder",
+    "en": "Rush Ladder",
+    "zh": "极速飞梯"
+  },
+  "g20021840": {
+    "en": "Juggernaut",
+    "zh": "剑圣"
+  },
+  "g20001143": {
+    "en": "Desert Legends\n",
+    "zh": "沙漠传说"
+  },
+  "g2012": {
+    "ru": "Grand Champions",
+    "vi": "Grand Champions",
+    "pt": "Grand Champions",
+    "ko": "Grand Champions",
+    "en": "Grand Champions",
+    "zh": "勇者之路"
+  },
+  "g20010744": {
+    "en": "1v1",
+    "zh": "1v1"
+  },
+  "g2002": {
+    "de": "Transparenter Krieg",
+    "ru": "Transparent War",
+    "vi": "Transparent War",
+    "pt": "Transparent War",
+    "ko": "Transparent War",
+    "en": "Transparent War",
+    "zh": "透明战争"
+  },
+  "g2016": {
+    "ru": "Duel in The Forbidden",
+    "vi": "Duel in The Forbidden",
+    "pt": "Duel in The Forbidden",
+    "ko": "Duel in The Forbidden",
+    "en": "Duel in The Forbidden",
+    "zh": "决战紫禁之巅"
+  },
+  "g20021301": {
+    "in": "Mario go up",
+    "en": "Mario go up",
+    "zh": "马里奥跑酷"
+  },
+  "g20001150": {
+    "en": "Blocky Fighters",
+    "zh": "方块战士"
+  },
+  "g20000317": {
+    "en": "Bed Wars Hospital",
+    "zh": "医院起床战争"
+  },
+  "g20047352": {
+    "en": "跑酷模板_663",
+    "zh": "跑酷模板"
+  },
+  "g20002989": {
+    "en": "Piranha Park",
+    "zh": "食人花公园"
+  },
+  "g2005": {
+    "de": "Kuchen-Krieg",
+    "ru": "Cake War",
+    "vi": "Cake War",
+    "pt": "Cake War",
+    "ko": "Cake War",
+    "en": "Cake War",
+    "zh": "蛋糕战争"
+  },
+  "g2010": {
+    "ru": "Flower Thief",
+    "vi": "Flower Thief",
+    "pt": "Flower Thief",
+    "ko": "Flower Thief",
+    "en": "Flower Thief",
+    "zh": "踩花大盗"
+  },
+  "g20001152": {
+    "en": "Sumo",
+    "zh": "相扑"
+  },
+  "g20000791": {
+    "in": "Threw The Bombs",
+    "en": "Threw The Bombs",
+    "zh": "扔炸弹"
+  },
+  "g20001842": {
+    "en": "Quest Race by YLO",
+    "zh": "追逐赛 YLO"
+  },
+  "g20000500": {
+    "en": "The Bridge",
+    "zh": "桥"
+  },
+  "g2009": {
+    "ru": "Egg Catcher",
+    "vi": "Egg Catcher",
+    "pt": "Egg Catcher",
+    "ko": "Egg Catcher",
+    "en": "Egg Catcher",
+    "zh": "龙蛋捕手"
+  },
+  "g20000031": {
+    "en": "Secret Mission",
+    "zh": "夺宝特工"
+  },
+  "g20001151": {
+    "en": "Mobile Legends",
+    "zh": "手机英雄联盟"
+  },
+  "g20000367": {
+    "en": "Desert Islands v2",
+    "zh": "荒岛v2"
+  },
+  "g20001154": {
+    "in": "EGG TO EGG",
+    "en": "EGG TO EGG",
+    "zh": "蛋蛋战争"
+  },
+  "g20000200": {
+    "en": "TNT WARS by YLO",
+    "zh": "TNT战争by YLO"
+  },
+  "g2000523": {
+    "en": "Egypt Style Bedwars",
+    "zh": "埃及起床战争"
+  },
+  "g2015": {
+    "ru": "Jumping Holes",
+    "vi": "Jumping Holes",
+    "pt": "Jumping Holes",
+    "ko": "Jumping Holes",
+    "en": "Jumping Holes",
+    "zh": "跳跳乐"
+  }
+}
